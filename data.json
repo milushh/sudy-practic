@@ -1,0 +1,11 @@
+{
+    "bmw": ["https://avatars.mds.yandex.net/i?id=f4bede67a82c08e87ee7b42a0d757611634d6b2c21453257-8556780-images-thumbs&n=13", 
+            "https://content.onliner.by/news/1400x5616/108deefc06a1c2e114c29dc556c5b205.jpeg"
+            ],  
+    "mers": ["https://avatars.mds.yandex.net/i?id=d54ae37ceb3fa01a2f49fc22f25152107686d734-9705232-images-thumbs&n=13",
+             "https://avatars.mds.yandex.net/i?id=6dcab73756b5c80b1b1abee3a860ed44373cc1fa-4055449-images-thumbs&n=13"
+            ],
+    "lexus": ["https://avatars.mds.yandex.net/i?id=8e7068870fa4de0c16ee715e0f97d7f234f8ee92-8377431-images-thumbs&n=13", 
+            "https://avatars.mds.yandex.net/i?id=5284e09b9c0dba4ec13c389cf5d268dcd4b3aa12051606b7-5016868-images-thumbs&n=13"
+            ]
+}
